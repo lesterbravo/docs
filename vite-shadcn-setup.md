@@ -1,4 +1,4 @@
-# Vite / ShadCN Project
+# Vite / ShadCN Setup
 ### 1. Create Project
 
 ```bash
